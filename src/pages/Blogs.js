@@ -40,7 +40,7 @@ const Blogs = () => {
                         <div class="blog_left_side">
                         <div class="blog_panel" data-aos="fade-up" data-aos-duration="1500">
                             <div class="main_img">
-                            <a href="blog-detail.html"><img src="assets/images/new/blog-list_01.png" alt="image" /></a>
+                            <a href="blog-detail.html"><img src="assets/images/new/blog-list_01.png" alt="title-replaced" /></a>
                             </div>
                             <div class="blog_info">
                             <span class="date">12 Dec, 2022</span>
@@ -51,7 +51,7 @@ const Blogs = () => {
                             <div class="authore_block">
                                 <div class="authore">
                                 <div class="img">
-                                    <img src="assets/images/new/authore_01.png" alt="image" />
+                                    <img src="assets/images/new/authore_01.png" alt="title-replaced" />
                                 </div>
                                 <div class="text">
                                     <h4>Stephan Joe</h4>
@@ -66,7 +66,7 @@ const Blogs = () => {
                         </div>
                         <div class="blog_panel" data-aos="fade-up" data-aos-duration="1500">
                             <div class="main_img">
-                            <a href="blog-detail.html"><img src="assets/images/new/blog-list_02.png" alt="image" /></a>
+                            <a href="blog-detail.html"><img src="assets/images/new/blog-list_02.png" alt="title-replaced" /></a>
                             </div>
                             <div class="blog_info">
                             <span class="date">09 Dec, 2022</span>
@@ -78,7 +78,7 @@ const Blogs = () => {
                             <div class="authore_block">
                                 <div class="authore">
                                 <div class="img">
-                                    <img src="assets/images/new/authore_02.png" alt="image" />
+                                    <img src="assets/images/new/authore_02.png" alt="title-replaced" />
                                 </div>
                                 <div class="text">
                                     <h4>Cyrus Melabo</h4>
@@ -93,7 +93,7 @@ const Blogs = () => {
                         </div>
                         <div class="blog_panel" data-aos="fade-up" data-aos-duration="1500">
                             <div class="main_img">
-                            <a href="blog-detail.html"><img src="assets/images/new/blog-list_02.png" alt="image" /></a>
+                            <a href="blog-detail.html"><img src="assets/images/new/blog-list_02.png" alt="title-replaced" /></a>
                             </div>
                             <div class="blog_info">
                             <span class="date">05 Dec, 2022</span>
@@ -105,7 +105,7 @@ const Blogs = () => {
                             <div class="authore_block">
                                 <div class="authore">
                                 <div class="img">
-                                    <img src="assets/images/new/authore_01.png" alt="image" />
+                                    <img src="assets/images/new/authore_01.png" alt="title-replaced" />
                                 </div>
                                 <div class="text">
                                     <h4>Stephan Joe</h4>
@@ -120,7 +120,7 @@ const Blogs = () => {
                         </div>
                         <div class="blog_panel" data-aos="fade-up" data-aos-duration="1500">
                             <div class="main_img">
-                            <a href="blog-detail.html"><img src="assets/images/new/blog-list_04.png" alt="image" /></a>
+                            <a href="blog-detail.html"><img src="assets/images/new/blog-list_04.png" alt="title-replaced" /></a>
                             </div>
                             <div class="blog_info">
                             <span class="date">02 Dec, 2022</span>
@@ -131,7 +131,7 @@ const Blogs = () => {
                             <div class="authore_block">
                                 <div class="authore">
                                 <div class="img">
-                                    <img src="assets/images/new/authore_02.png" alt="image" />
+                                    <img src="assets/images/new/authore_02.png" alt="title-replaced" />
                                 </div>
                                 <div class="text">
                                     <h4>Cyrus Melabo</h4>
@@ -165,7 +165,7 @@ const Blogs = () => {
                             <li>
                                 <a href="blog-detail.html">
                                 <div class="img">
-                                    <img src="assets/images/new/blog-side_01.png" alt="image" />
+                                    <img src="assets/images/new/blog-side_01.png" alt="title-replaced" />
                                 </div>
                                 <div class="text">
                                     <h4>Questions business owner must be able to answer.</h4>
@@ -176,7 +176,7 @@ const Blogs = () => {
                             <li>
                                 <a href="blog-detail.html">
                                 <div class="img">
-                                    <img src="assets/images/new/blog-side_02.png" alt="image" />
+                                    <img src="assets/images/new/blog-side_02.png" alt="title-replaced" />
                                 </div>
                                 <div class="text">
                                     <h4>How is Technology Working With New Things?</h4>
@@ -187,7 +187,7 @@ const Blogs = () => {
                             <li>
                                 <a href="blog-detail.html">
                                 <div class="img">
-                                    <img src="assets/images/new/blog-side_03.png" alt="image" />
+                                    <img src="assets/images/new/blog-side_03.png" alt="title-replaced" />
                                 </div>
                                 <div class="text">
                                     <h4>Two tried and true frameworks for achieving..</h4>
@@ -198,7 +198,7 @@ const Blogs = () => {
                             <li>
                                 <a href="blog-detail.html">
                                 <div class="img">
-                                    <img src="assets/images/new/blog-side_04.png" alt="image" />
+                                    <img src="assets/images/new/blog-side_04.png" alt="title-replaced" />
                                 </div>
                                 <div class="text">
                                     <h4>Why communities help you build better...</h4>

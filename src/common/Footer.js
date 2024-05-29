@@ -23,7 +23,7 @@ const Footer = () => {
                         <div class="row">
                             <div class="col-lg-4 col-md-6 col-12">
                                 <div class="abt_side">
-                                    <div class="logo"> <img src="assets/images/new/Logo.png" alt="image" /></div>
+                                    <div class="logo"> <img src="assets/images/new/Logo.png" alt="title-replaced" /></div>
                                         <p>Lorem Ipsum is simply dummy text of the printing and type setting industry ype setting industry lorem
                                             Ipsum has been the industrys standard dummy. </p>
                                     <div class="news_letter_block">
@@ -69,7 +69,7 @@ const Footer = () => {
                                     <ul>
                                         <li>
                                             <span class="icon">
-                                                <img src="assets/images/new/contact_01.png" alt="image" />
+                                                <img src="assets/images/new/contact_01.png" alt="title-replaced" />
                                             </span>
                                             <div class="text">
                                                 <p>Reach us <br /> 599, Vilium Crossing, NJ</p>
@@ -77,7 +77,7 @@ const Footer = () => {
                                         </li>
                                         <li>
                                             <span class="icon">
-                                                <img src="assets/images/new/contact_02.png" alt="image" />
+                                                <img src="assets/images/new/contact_02.png" alt="title-replaced" />
                                             </span>
                                             <div class="text">
                                                 <p>Call us <a href="tel:+1-900-1234567">+1-900-123 4567</a></p>
@@ -85,7 +85,7 @@ const Footer = () => {
                                         </li>
                                         <li>
                                             <span class="icon">
-                                                <img src="assets/images/new/contact_03.png" alt="image" />
+                                                <img src="assets/images/new/contact_03.png" alt="title-replaced" />
                                             </span>
                                             <div class="text">
                                                 <p>Email us <a href="mailto:support@example.com">support@example.com</a></p>

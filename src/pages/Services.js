@@ -45,7 +45,7 @@ const Services = () => {
                     
                     <div class="s_list_card">
                         <div class="icons">
-                        <img src="assets/images/new/service-1.svg" alt="image" />
+                        <img src="assets/images/new/service-1.svg" alt="title-replaced" />
                         <div class="dot_block">
                             <span class="dot_anim"></span>
                             <span class="dot_anim"></span>
@@ -61,7 +61,7 @@ const Services = () => {
                     </div>
                     <div class="s_list_card">
                         <div class="icons">
-                        <img src="assets/images/new/service-2.svg" alt="image" />
+                        <img src="assets/images/new/service-2.svg" alt="title-replaced" />
                         <div class="dot_block">
                             <span class="dot_anim"></span>
                             <span class="dot_anim"></span>
@@ -77,7 +77,7 @@ const Services = () => {
                     </div>
                     <div class="s_list_card">
                         <div class="icons">
-                        <img src="assets/images/new/service-3.svg" alt="image" />
+                        <img src="assets/images/new/service-3.svg" alt="title-replaced" />
                         <div class="dot_block">
                             <span class="dot_anim"></span>
                             <span class="dot_anim"></span>
@@ -97,7 +97,7 @@ const Services = () => {
                     
                     <div class="s_list_card">
                         <div class="icons">
-                        <img src="assets/images/new/service-4.svg" alt="image" />
+                        <img src="assets/images/new/service-4.svg" alt="title-replaced" />
                         <div class="dot_block">
                             <span class="dot_anim"></span>
                             <span class="dot_anim"></span>
@@ -113,7 +113,7 @@ const Services = () => {
                     </div>
                     <div class="s_list_card">
                         <div class="icons">
-                        <img src="assets/images/new/service-5.svg" alt="image" />
+                        <img src="assets/images/new/service-5.svg" alt="title-replaced" />
                         <div class="dot_block">
                             <span class="dot_anim"></span>
                             <span class="dot_anim"></span>
@@ -129,7 +129,7 @@ const Services = () => {
                     </div>
                     <div class="s_list_card">
                         <div class="icons">
-                        <img src="assets/images/new/service-6.svg" alt="image" />
+                        <img src="assets/images/new/service-6.svg" alt="title-replaced" />
                         <div class="dot_block">
                             <span class="dot_anim"></span>
                             <span class="dot_anim"></span>

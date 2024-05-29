@@ -66,7 +66,7 @@ const Home = () => {
                         <div class="features_inner" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="100">
                         <div class="feature_card">
                             <div class="icons">
-                            <img src="assets/images/new/features_icon_01.svg" alt="image" />
+                            <img src="assets/images/new/features_icon_01.svg" alt="title-replaced" />
                             <div class="dot_block">
                                 <span class="dot_anim"></span>
                                 <span class="dot_anim"></span>
@@ -82,7 +82,7 @@ const Home = () => {
                         </div>
                         <div class="feature_card">
                             <div class="icons">
-                            <img src="assets/images/new/features_icon_02.svg" alt="image" />
+                            <img src="assets/images/new/features_icon_02.svg" alt="title-replaced" />
                             <div class="dot_block">
                                 <span class="dot_anim"></span>
                                 <span class="dot_anim"></span>
@@ -98,7 +98,7 @@ const Home = () => {
                         </div>
                         <div class="feature_card">
                             <div class="icons">
-                            <img src="assets/images/new/features_icon_03.svg" alt="image" />
+                            <img src="assets/images/new/features_icon_03.svg" alt="title-replaced" />
                             <div class="dot_block">
                                 <span class="dot_anim"></span>
                                 <span class="dot_anim"></span>
@@ -121,7 +121,7 @@ const Home = () => {
                         <div class="row">
                         <div class="col-md-6">
                             <div class="analyze_text" data-aos="fade-in" data-aos-duration="2000" data-aos-delay="100">
-                            <span class="icon"><img src="assets/images/new/Analyze_Icon.svg" alt="image" /></span>
+                            <span class="icon"><img src="assets/images/new/Analyze_Icon.svg" alt="title-replaced" /></span>
                             <div class="section_title">
                                 <h2>Analyze your data with powerful tool</h2>
                                 <p>Lorem Ipsum is simply dummy text of the printing and types
@@ -143,11 +143,11 @@ const Home = () => {
                         <div class="col-md-6">
                             <div class="analyze_image" data-aos="fade-in" data-aos-duration="1000">
                             <img data-aos="fade-in" data-aos-duration="2000" data-aos-delay="100" class="moving_animation"
-                                src="assets/images/new/analyze-data-01.png" alt="image" />
+                                src="assets/images/new/analyze-data-01.png" alt="title-replaced" />
                             <img data-aos="fade-in" data-aos-duration="2000" data-aos-delay="100" class="moving_animation"
-                                src="assets/images/new/analyze-data-02.png" alt="image" />
+                                src="assets/images/new/analyze-data-02.png" alt="title-replaced" />
                             <img data-aos="fade-in" data-aos-duration="2000" data-aos-delay="100" class=""
-                                src="assets/images/new/analyze-data-03.png" alt="image" />
+                                src="assets/images/new/analyze-data-03.png" alt="title-replaced" />
                             </div>
                         </div>
                         </div>
@@ -159,18 +159,18 @@ const Home = () => {
                         <div class="col-md-6">
                             <div class="collaborate_image" data-aos="fade-in" data-aos-duration="2000" data-aos-delay="100">
                             <div class="img_block" data-aos="fade-in" data-aos-duration="2000" data-aos-delay="100">
-                                <img class="icon_img moving_animation" src="assets/images/new/Collaborate-icon_1.png" alt="image" />
-                                <img src="assets/images/new/Collaborate-01.png" alt="image" />
+                                <img class="icon_img moving_animation" src="assets/images/new/Collaborate-icon_1.png" alt="title-replaced" />
+                                <img src="assets/images/new/Collaborate-01.png" alt="title-replaced" />
                             </div>
                             <div class="img_block" data-aos="fade-in" data-aos-duration="2000" data-aos-delay="100">
-                                <img src="assets/images/new/Collaborate-02.png" alt="image" />
-                                <img class="icon_img moving_animation" src="assets/images/new/Collaborate-icon_2.png" alt="image" />
+                                <img src="assets/images/new/Collaborate-02.png" alt="title-replaced" />
+                                <img class="icon_img moving_animation" src="assets/images/new/Collaborate-icon_2.png" alt="title-replaced" />
                             </div>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="collaborate_text" data-aos="fade-in" data-aos-duration="2000" data-aos-delay="100">
-                            <span class="icon"><img src="assets/images/new/securely.svg" alt="image" /></span>
+                            <span class="icon"><img src="assets/images/new/securely.svg" alt="title-replaced" /></span>
                             <div class="section_title">
                                 <h2>Collaborate securely everything</h2>
                                 <p>Lorem Ipsum is simply dummy text of the printing and types
@@ -216,7 +216,7 @@ const Home = () => {
                             <p>Lorem Ipsum is simply dummy text of the print ing and typese tting us orem Ipsum has been.</p>
                             <div class="avtar_profil">
                                 <div class="avatr">
-                                <img src="assets/images/new/testi_01.png" alt="image" />
+                                <img src="assets/images/new/testi_01.png" alt="title-replaced" />
                                 </div>
                                 <div class="text">
                                 <h3>Shayna john</h3>
@@ -237,7 +237,7 @@ const Home = () => {
                             <p>Simply dummy text of the print ing and typese tting us orem Ipsum has been lorem Ipsum.</p>
                             <div class="avtar_profil">
                                 <div class="avatr">
-                                <img src="assets/images/new/testi_02.png" alt="image" />
+                                <img src="assets/images/new/testi_02.png" alt="title-replaced" />
                                 </div>
                                 <div class="text">
                                 <h3>Mark </h3>
@@ -258,7 +258,7 @@ const Home = () => {
                             <p>Lorem Ipsum is simply dummy text of the print ing and typese tting us orem Ipsum has been.</p>
                             <div class="avtar_profil">
                                 <div class="avatr">
-                                <img src="assets/images/new/testi_01.png" alt="image" />
+                                <img src="assets/images/new/testi_01.png" alt="title-replaced" />
                                 </div>
                                 <div class="text">
                                 <h3>Willium Joe</h3>
@@ -279,7 +279,7 @@ const Home = () => {
                             <p>Lorem Ipsum is simply dummy text of the print ing and typese tting us orem Ipsum has been.</p>
                             <div class="avtar_profil">
                                 <div class="avatr">
-                                <img src="assets/images/new/testi_03.png" alt="image" />
+                                <img src="assets/images/new/testi_03.png" alt="title-replaced" />
                                 </div>
                                 <div class="text">
                                 <h3>Shayna john</h3>
@@ -313,7 +313,7 @@ const Home = () => {
                         <div class="col-md-4">
                             <div class="story_box" data-aos="fade-up" data-aos-duration="1500">
                             <div class="story_img">
-                                <img src="assets/images/new/story-01.png" alt="image" />
+                                <img src="assets/images/new/story-01.png" alt="title-replaced" />
                                 <span><span>23</span> AUG</span>
                             </div>
                             <div class="story_text">
@@ -332,7 +332,7 @@ const Home = () => {
                         <div class="col-md-4">
                             <div class="story_box" data-aos="fade-up" data-aos-duration="1500">
                             <div class="story_img">
-                                <img src="assets/images/new/story-02.png" alt="image" />
+                                <img src="assets/images/new/story-02.png" alt="title-replaced" />
                                 <span><span>18</span> AUG</span>
                             </div>
                             <div class="story_text">
@@ -350,7 +350,7 @@ const Home = () => {
                         <div class="col-md-4">
                             <div class="story_box" data-aos="fade-up" data-aos-duration="1500">
                             <div class="story_img">
-                                <img src="assets/images/new/story-03.png" alt="image" />
+                                <img src="assets/images/new/story-03.png" alt="title-replaced" />
                                 <span><span>9</span> AUG</span>
                             </div>
                             <div class="story_text">

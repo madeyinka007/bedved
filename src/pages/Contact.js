@@ -40,7 +40,7 @@ const Contact = () => {
 
                     <div class="c_list_card">
                         <div class="icons">
-                        <img src="assets/images/new/mail.png" alt="image" />
+                        <img src="assets/images/new/mail.png" alt="title-replaced" />
                         <div class="dot_block">
                             <span class="dot_anim"></span>
                             <span class="dot_anim"></span>
@@ -56,7 +56,7 @@ const Contact = () => {
                     </div>
                     <div class="c_list_card">
                         <div class="icons">
-                        <img src="assets/images/new/location.png" alt="image" />
+                        <img src="assets/images/new/location.png" alt="title-replaced" />
                         <div class="dot_block">
                             <span class="dot_anim"></span>
                             <span class="dot_anim"></span>
@@ -72,7 +72,7 @@ const Contact = () => {
                     </div>
                     <div class="c_list_card">
                         <div class="icons">
-                        <img src="assets/images/new/phone.png" alt="image" />
+                        <img src="assets/images/new/phone.png" alt="title-replaced" />
                         <div class="dot_block">
                             <span class="dot_anim"></span>
                             <span class="dot_anim"></span>
@@ -157,7 +157,7 @@ const Contact = () => {
                             </form>
 
                             <div class="form-graphic">
-                                <img src="assets/images/new/paperplane.png" alt="image" />
+                                <img src="assets/images/new/paperplane.png" alt="title-replaced" />
                             </div>
                         </div>
                         

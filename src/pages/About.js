@@ -64,7 +64,7 @@ const About = () => {
                             data-url="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1&mute=1" data-toggle="modal"
                             data-target="#myModal" title="XJj2PbenIsU">
                             <div class="play_btn">
-                                <img src="assets/images/new/orange_play.png" alt="image" />
+                                <img src="assets/images/new/orange_play.png" alt="title-replaced" />
                                 <div class="waves-block">
                                 <div class="waves wave-1"></div>
                                 <div class="waves wave-2"></div>
@@ -73,11 +73,11 @@ const About = () => {
                             </div>
                             </a>
                             <div class="top_img">
-                            <img src="assets/images/new/abt_01.png" alt="image" />
-                            <img src="assets/images/new/abt_02.png" alt="image" />
+                            <img src="assets/images/new/abt_01.png" alt="title-replaced" />
+                            <img src="assets/images/new/abt_02.png" alt="title-replaced" />
                             </div>
                             <div class="bottom_img">
-                            <img src="assets/images/new/abt_03.png" alt="image" />
+                            <img src="assets/images/new/abt_03.png" alt="title-replaced" />
                             </div>
                         </div>
                         </div>
@@ -126,7 +126,7 @@ const About = () => {
                     <div class="row">
                     <div class="col-md-6">
                         <div class="solution_image" data-aos="fade-in" data-aos-duration="2000" data-aos-delay="100">
-                        <img src="assets/images/new/solution.png" alt="image" />
+                        <img src="assets/images/new/solution.png" alt="title-replaced" />
                         </div>
                     </div>
                     <div class="col-md-6">
