@@ -67,7 +67,7 @@ const Contact = () => {
                         <h3>Visit our office</h3>
                         <p>Reach us to our offcie and meest us
                         </p>
-                        <a href="#" class="text_btn">5687, Business Avenue, New York, USA 5687 </a>
+                        <a href="#0" class="text_btn">5687, Business Avenue, New York, USA 5687 </a>
                         </div>
                     </div>
                     <div class="c_list_card">

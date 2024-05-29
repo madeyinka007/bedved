@@ -56,9 +56,9 @@ const Footer = () => {
                                     <ul>
                                         <li><a href="contact-us.html">Contact us</a></li>
                                         <li><a href="faq.html">FAQs</a></li>
-                                        <li><a href="#">How it works</a></li>
-                                        <li><a href="#">Terms & conditions</a></li>
-                                        <li><a href="#">Privacy policy</a></li>
+                                        <li><a href="#0">How it works</a></li>
+                                        <li><a href="#0">Terms & conditions</a></li>
+                                        <li><a href="#0">Privacy policy</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -106,10 +106,10 @@ const Footer = () => {
                             </div>
                             <div class="col-md-4">
                                 <ul class="social_media">
-                                    <li><a href="#"><i class="icofont-facebook"></i></a></li>
-                                    <li><a href="#"><i class="icofont-twitter"></i></a></li>
-                                    <li><a href="#"><i class="icofont-instagram"></i></a></li>
-                                    <li><a href="#"><i class="icofont-pinterest"></i></a></li>
+                                    <li><a href="#0"><i class="icofont-facebook"></i></a></li>
+                                    <li><a href="#0"><i class="icofont-twitter"></i></a></li>
+                                    <li><a href="#0"><i class="icofont-instagram"></i></a></li>
+                                    <li><a href="#0"><i class="icofont-pinterest"></i></a></li>
                                 </ul>
                             </div>
                             <div class="col-md-4">

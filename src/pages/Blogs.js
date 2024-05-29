@@ -212,31 +212,31 @@ const Blogs = () => {
                             <h3>Categories</h3>
                             <ul>
                             <li>
-                                <a href="#" class="cat"><i class="icofont-folder-open"></i> Software</a>
+                                <a href="#0" class="cat"><i class="icofont-folder-open"></i> Software</a>
                                 <span>(15)</span>
                             </li>
                             <li>
-                                <a href="#" class="cat"><i class="icofont-folder-open"></i> Technology</a>
+                                <a href="#0" class="cat"><i class="icofont-folder-open"></i> Technology</a>
                                 <span>(12)</span>
                             </li>
                             <li>
-                                <a href="#" class="cat"><i class="icofont-folder-open"></i> Business</a>
+                                <a href="#0" class="cat"><i class="icofont-folder-open"></i> Business</a>
                                 <span>(09)</span>
                             </li>
                             <li>
-                                <a href="#" class="cat"><i class="icofont-folder-open"></i> Web Development</a>
+                                <a href="#0" class="cat"><i class="icofont-folder-open"></i> Web Development</a>
                                 <span>(25)</span>
                             </li>
                             <li>
-                                <a href="#" class="cat"><i class="icofont-folder-open"></i> Android</a>
+                                <a href="#0" class="cat"><i class="icofont-folder-open"></i> Android</a>
                                 <span>(19)</span>
                             </li>
                             <li>
-                                <a href="#" class="cat"><i class="icofont-folder-open"></i> iOS</a>
+                                <a href="#0" class="cat"><i class="icofont-folder-open"></i> iOS</a>
                                 <span>(08)</span>
                             </li>
                             <li>
-                                <a href="#" class="cat"><i class="icofont-folder-open"></i> Watch</a>
+                                <a href="#0" class="cat"><i class="icofont-folder-open"></i> Watch</a>
                                 <span>(13)</span>
                             </li>
                             </ul>
@@ -244,13 +244,13 @@ const Blogs = () => {
                         <div class="tags_block bg_box" data-aos="fade-up" data-aos-duration="1500">
                             <h3>Tags</h3>
                             <ul>
-                            <li><a href="#">Software</a></li>
-                            <li><a href="#">Technology</a></li>
-                            <li><a href="#">Business</a></li>
-                            <li><a href="#">Development</a></li>
-                            <li><a href="#">Android</a></li>
-                            <li><a href="#">iOS</a></li>
-                            <li><a href="#">Watch</a></li>
+                            <li><a href="#0">Software</a></li>
+                            <li><a href="#0">Technology</a></li>
+                            <li><a href="#0">Business</a></li>
+                            <li><a href="#0">Development</a></li>
+                            <li><a href="#0">Android</a></li>
+                            <li><a href="#0">iOS</a></li>
+                            <li><a href="#0">Watch</a></li>
                             </ul>
                         </div>
                         </div>
@@ -261,12 +261,12 @@ const Blogs = () => {
                         <div class="row">
                             <div class="col-lg-8">
                             <ul>
-                                <li><a href="#" class="prev"><i class="icofont-double-left"></i></a></li>
-                                <li><a href="#">1</a></li>
-                                <li><a href="#" class="active">2</a></li>
-                                <li><a href="#">3</a></li>
-                                <li><a href="#">4</a></li>
-                                <li><a href="#" class="next"><i class="icofont-double-right"></i></a></li>
+                                <li><a href="#0" class="prev"><i class="icofont-double-left"></i></a></li>
+                                <li><a href="#0">1</a></li>
+                                <li><a href="#0" class="active">2</a></li>
+                                <li><a href="#0">3</a></li>
+                                <li><a href="#0">4</a></li>
+                                <li><a href="#0" class="next"><i class="icofont-double-right"></i></a></li>
                             </ul>
                             </div>
                         </div>
