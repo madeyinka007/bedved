@@ -109,7 +109,7 @@ const Home = () => {
                             <h3>Lifetime free updates</h3>
                             <p>Lorem Ipsum is simply dummy text ofthe printing and type setting indus ideas orem Ipsum has beenthe.
                             </p>
-                            <a href="#0" class="btn text_btn">DISCOVER MORE <i class="icofont-arrow-right"></i></a>
+                            <a href="/" class="btn text_btn">DISCOVER MORE <i class="icofont-arrow-right"></i></a>
                             </div>
                         </div>
 
