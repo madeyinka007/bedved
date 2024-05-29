@@ -49,7 +49,7 @@ const Home = () => {
 
                             <div class="col-lg-6 col-md-12">
                                 <div className="banner_image" data-aos="fade-up" data-aos-duration="1500">
-                                    <img src="/assets/images/new/hero_image.png" alt="hero-image" />
+                                    <img src="/assets/images/new/hero_image.png" alt="hero-title" />
                                 </div>
                             </div>
                         </div>
