@@ -60,7 +60,7 @@ const About = () => {
                         </div>
                         <div class="col-md-6">
                         <div class="abt_img_block" data-aos="fade-in" data-aos-duration="1500">
-                            <a data-aos="fade-up" data-aos-duration="1500" class="popup-youtube play-button"
+                            <span data-aos="fade-up" data-aos-duration="1500" class="popup-youtube play-button"
                             data-url="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1&mute=1" data-toggle="modal"
                             data-target="#myModal" title="XJj2PbenIsU">
                             <div class="play_btn">
@@ -71,7 +71,7 @@ const About = () => {
                                 <div class="waves wave-3"></div>
                                 </div>
                             </div>
-                            </a>
+                            </span>
                             <div class="top_img">
                             <img src="assets/images/new/abt_01.png" alt="title-replaced" />
                             <img src="assets/images/new/abt_02.png" alt="title-replaced" />
